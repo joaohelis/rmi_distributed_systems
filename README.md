@@ -23,7 +23,7 @@ e.g.
 
 your_user your_user @: ~ $ java GerAcoesServer
 
-4. Run the server with the command java GerAcoesClientImpl <client_name> <IP_server> in the terminal
+4. Run the server with the command java GerAcoesClientImpl client_name IP_server in the terminal
 
 e.g.
 
