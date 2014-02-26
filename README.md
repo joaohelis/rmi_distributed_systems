@@ -27,6 +27,6 @@ your_user your_user @: ~ $ java GerAcoesServer
 
 e.g.
 
-your_user your_user @: ~ $ java GerAcoesClientImpl <joaohelis> <localhost>
+your_user your_user @: ~ $ java GerAcoesClientImpl joaohelis localhost
 
 DONE!
