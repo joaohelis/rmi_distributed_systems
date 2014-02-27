@@ -119,6 +119,7 @@ public class GerAcoesClientImpl implements GerAcoesClient{
 							System.out.println("| > vender <cod_acao> <quantidade>");
 							System.out.println("| > listarusuarios");
 							System.out.println("| > listaracoes");
+							System.out.println("| > exit");
 							System.out.println("|-----------------------------------------------------------");
 							System.out.println("| OBS: O codigo da acao deve ter exatamente 3 caracteres");
 							System.out.println("|-----------------------------------------------------------");
@@ -133,6 +134,7 @@ public class GerAcoesClientImpl implements GerAcoesClient{
 				}
 				System.out.print("> ");
 			}
+			System.exit(0);
 		}catch (Exception e) {
 			System.err.println("Client exception: " + e.toString());
 			e.printStackTrace();
