@@ -9,24 +9,24 @@ HOW TO RUN THE CODE
 
 e.g. 
 
-your_user your_user @: ~ $ rmiregistry 
+your_user@your_user: ~ $ rmiregistry 
 
 2. Compile your *.java files with the command javac *.java
 
 e.g.
 
-your_user your_user @: ~ $ javac *.java
+your_user@your_user: ~ $ javac *.java
 
 3. Run the server with the command java GerAcoesServer in the terminal
 
 e.g.
 
-your_user your_user @: ~ $ java GerAcoesServer
+your_user@your_user: ~ $ java GerAcoesServer
 
-4. Run the server with the command java GerAcoesClientImpl client_name IP_server in the terminal
+4. Run the clinet with the command java GerAcoesClientImpl client_name IP_server in the terminal
 
 e.g.
 
-your_user your_user @: ~ $ java GerAcoesClientImpl joaohelis localhost
+your_user@your_user: ~ $ java GerAcoesClientImpl joaohelis localhost
 
 DONE!
