@@ -21,7 +21,7 @@ your_user@your_user: ~ $ javac *.java
 
 e.g.
 
-your_user@your_user: ~ $ java -Djava.rmi.server.hostname=<Host_IP> GerAcoesServer
+your_user@your_user: ~ $ java -Djava.rmi.server.hostname=Host_IP GerAcoesServer
 
 4. Run the clinet with the command java GerAcoesClientImpl client_name IP_server in the terminal
 
